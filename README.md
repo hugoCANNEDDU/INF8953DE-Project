@@ -7,3 +7,5 @@ Utils contain some utility function.
 
 Executing each figure*.py file will produce the corresponding figure from the paper.
 
+human_bandit_dataset is from the original paper.
+
